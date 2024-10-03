@@ -1,0 +1,4 @@
+[submodule "submodule_1"]
+	path = submodule_1
+	url = https://github.com/lappdominext/submodule_1.git
+	branch = master
